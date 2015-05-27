@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: fr.iscpif:scaladget_sjs0.6_2.11:0.5.0-SNAPSHOT:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/fr.iscpif/scaladget_sjs0.6_2.11/jars/scaladget_sjs0.6_2.11-0.5.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/fr.iscpif/scaladget_sjs0.6_2.11/docs/scaladget_sjs0.6_2.11-0.5.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/fr.iscpif/scaladget_sjs0.6_2.11/srcs/scaladget_sjs0.6_2.11-0.5.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

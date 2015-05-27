@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: eu.unicredit:paths-scala-js_sjs0.6_2.11:0.3.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/eu.unicredit/paths-scala-js_sjs0.6_2.11/jars/paths-scala-js_sjs0.6_2.11-0.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/eu.unicredit/paths-scala-js_sjs0.6_2.11/docs/paths-scala-js_sjs0.6_2.11-0.3.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/eu.unicredit/paths-scala-js_sjs0.6_2.11/srcs/paths-scala-js_sjs0.6_2.11-0.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

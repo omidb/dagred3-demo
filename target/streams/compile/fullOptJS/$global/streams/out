@@ -1,0 +1,20 @@
+[0m[[0minfo[0m] [0mFull Optimizing E:\workspace\tut\dagred3\target\scala-2.11\dagred3-js-opt.js[0m
+[0m[[0mdebug[0m] [0mLinker: Read info: 29234 us[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 196210 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 714262 us[0m
+[0m[[0mdebug[0m] [0mLinker: cache stats: reused: 9371 -- invalidated: 21 -- trees read: 14[0m
+[0m[[0mdebug[0m] [0mLinker: 949003 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: false[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 30947 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 1 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 6609 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 43181 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 327010 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 12734 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 339874 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 484 -- invalidated: 13[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 2440 -- invalidated: 1[0m
+[0m[[0mdebug[0m] [0mEmitter (write output): 120117 us[0m
+[0m[[0minfo[0m] [0mClosure: 0 error(s), 0 warning(s)[0m
+[0m[[0mdebug[0m] [0mClosure: Compiler pass: 7006898 us[0m
+[0m[[0mdebug[0m] [0mClosure: Write result: 569113 us[0m
